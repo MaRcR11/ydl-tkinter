@@ -1,6 +1,6 @@
 # ydl-tkinter
 
-Youtube-Downloader made up in python with tkinter
+Youtube-Downloader made up in python with tkinter.
 
 ## How it works
 
