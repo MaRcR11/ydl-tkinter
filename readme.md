@@ -4,7 +4,9 @@ Youtube-Downloader made up in python with [tkinter](https://en.wikipedia.org/wik
 
 ## How it works
 
-Just add your directory and url out of Youtube. Your path has to be full-path ending with \ or /
+Just add your directory and url out of Youtube. Your path has to be full-path ending with \ or /.
+You can not duplicate your downloads, ydl-tkinter will check for.
+Do not overstrain your GUI while downloading.
 
 ## Note
 
