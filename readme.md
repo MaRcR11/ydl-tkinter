@@ -4,7 +4,7 @@ Youtube-Downloader made up in python with [tkinter](https://en.wikipedia.org/wik
 
 ## How it works
 
-Just add your directory and url out of Youtube.
+Just add your directory and url out of Youtube. Your path has to be full-path ending with \ or /
 
 ## Note
 
