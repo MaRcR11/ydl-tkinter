@@ -3,6 +3,7 @@
 
 
 import tkinter as tk
+from tkinter import  *
 from youtube_dl import YoutubeDL
 
 
@@ -54,6 +55,7 @@ button_convert_to_mp3.grid(row=0, column=3)
 process_info = tk.Entry(body, bg="black", fg="green", width=30)
 process_info.grid(row=0,column=4)
 process_info.insert(0, processinfo)
+process_info.config(state=DISABLED)
 
 
 funny_comment = tk.Label(body, text="- Please donate some coffee. :')", bg="black", fg="green", font=("bold", 10), pady=190, padx=210)
